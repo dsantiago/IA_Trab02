@@ -1,4 +1,5 @@
-# Trabalho 2 Disiplina PEL202 - Fundamentos de Inteligência Artificial
+# Trabalho 2 | PEL202 - Fundamentos de Inteligência Artificial
+## Algoritmos de Busca
 
 
 - [Código com resultados](https://github.com/dsantiago/IA_Trab02/blob/main/Trab02.ipynb)
